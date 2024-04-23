@@ -22,5 +22,5 @@
 
 <div>
   <h2> Contato </h2>
-  <a href="https://www.linkedin.com/in/luka-barth-44b830273/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luka-barth-44b830273/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
